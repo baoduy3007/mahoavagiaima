@@ -1,0 +1,17 @@
+C:\Users\2kand\source\repos\caesar\caesar\bin\Debug\net8.0-windows\caesar.exe
+C:\Users\2kand\source\repos\caesar\caesar\bin\Debug\net8.0-windows\caesar.deps.json
+C:\Users\2kand\source\repos\caesar\caesar\bin\Debug\net8.0-windows\caesar.runtimeconfig.json
+C:\Users\2kand\source\repos\caesar\caesar\bin\Debug\net8.0-windows\caesar.dll
+C:\Users\2kand\source\repos\caesar\caesar\bin\Debug\net8.0-windows\caesar.pdb
+C:\Users\2kand\source\repos\caesar\caesar\obj\Debug\net8.0-windows\caesar.Form1.resources
+C:\Users\2kand\source\repos\caesar\caesar\obj\Debug\net8.0-windows\caesar.csproj.GenerateResource.cache
+C:\Users\2kand\source\repos\caesar\caesar\obj\Debug\net8.0-windows\caesar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2kand\source\repos\caesar\caesar\obj\Debug\net8.0-windows\caesar.AssemblyInfoInputs.cache
+C:\Users\2kand\source\repos\caesar\caesar\obj\Debug\net8.0-windows\caesar.AssemblyInfo.cs
+C:\Users\2kand\source\repos\caesar\caesar\obj\Debug\net8.0-windows\caesar.csproj.CoreCompileInputs.cache
+C:\Users\2kand\source\repos\caesar\caesar\obj\Debug\net8.0-windows\caesar.dll
+C:\Users\2kand\source\repos\caesar\caesar\obj\Debug\net8.0-windows\refint\caesar.dll
+C:\Users\2kand\source\repos\caesar\caesar\obj\Debug\net8.0-windows\caesar.pdb
+C:\Users\2kand\source\repos\caesar\caesar\obj\Debug\net8.0-windows\caesar.genruntimeconfig.cache
+C:\Users\2kand\source\repos\caesar\caesar\obj\Debug\net8.0-windows\ref\caesar.dll
+C:\Users\2kand\source\repos\caesar\caesar\obj\Debug\net8.0-windows\caesar.Form2.resources
